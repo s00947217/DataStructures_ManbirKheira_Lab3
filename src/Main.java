@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-      String text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";  // Do not modify the value of text
+      String text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
       
       // Best-case scenario
       String bestCase = "A";  // best-case pattern: a single character that matches the first character
