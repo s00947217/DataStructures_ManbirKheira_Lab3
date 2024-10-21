@@ -1,3 +1,6 @@
+// Lab 3 - Brute-Force String Matching Algorithm
+// Your Name: Manbir S Kheira 
+
 public class Main {
     public static void main(String[] args) {
       String text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
